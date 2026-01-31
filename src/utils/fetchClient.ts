@@ -1,6 +1,6 @@
 import { RequestMethod } from '../types';
 
-const BASE_URL = import.meta.env.VITE_BASE_API_URL;
+const BASE_URL = 'https://mate.academy/students-api';
 
 const request = <T>(
   url: string,

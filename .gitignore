@@ -1,7 +1,6 @@
 .idea
 .vscode
 build
-dist
 node_modules
 .DS_Store
 
@@ -14,6 +13,8 @@ reports
 cypress/screenshots
 cypress/videos
 
-.env
-.env*
+
+
+
+
 .env
